@@ -1,3 +1,5 @@
 {
-  "api_domain":"localhost"
+  "api_domain":"http://api.getwk.com",
+  "home_page":"http://www.getwk.com",
+  "start_page":"http://free.getwk.com"
 }
